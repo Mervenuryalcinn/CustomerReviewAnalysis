@@ -37,11 +37,11 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    git clone [https://github.com/Mervenuryalcinn/CustomerReviewAnalysis.git](https://github.com/Mervenuryalcinn/CustomerReviewAnalysis.git)
    cd CustomerReviewAnalysis
 
- 2.Gerekli kütüphaneleri yükleyin:
+2.Gerekli kütüphaneleri yükleyin:
     ```bash
     pip install -r requirements.txt
 
- 3.Uygulamayı başlatın:
+3.Uygulamayı başlatın:
     ```bash
     streamlit run proje.py
 
