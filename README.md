@@ -38,11 +38,15 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    cd CustomerReviewAnalysis
 
 2.Gerekli kütüphaneleri yükleyin:
+
     ```bash
+    
     pip install -r requirements.txt
 
 3.Uygulamayı başlatın:
+
     ```bash
+    
     streamlit run proje.py
 
   
